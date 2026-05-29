@@ -306,7 +306,6 @@ Learning ROS 2 opens opportunities in:
 
 ## 📂 Resources Included
 
-* Lecture Videos
 * Source Code
 * Example Projects
 * Practice Exercises

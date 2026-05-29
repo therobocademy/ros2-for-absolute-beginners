@@ -2,6 +2,11 @@
 
 > Learn ROS 2 from scratch using the latest ROS 2 distributions through hands-on examples, practical exercises, and a mini-project.
 
+<p align="center">
+  <img src="assets/banner.png" alt="ROS 2 for Absolute Beginners 2026" width="100%">
+</p>
+
+
 ---
 
 ## 🚀 Course Overview
@@ -194,11 +199,9 @@ No prior ROS experience is required.
 
 Recommended:
 
-* Basic computer knowledge
-* Basic [Linux and command knowledge](https://ubuntu.com/tutorials/command-line-for-beginners) (helpful but not mandatory)
-* Basic programming knowledge in C++ and Python (helpful but not mandatory)
-
----
+- Basic computer knowledge
+- Basic Linux knowledge (helpful but not mandatory)
+- Basic programming knowledge (helpful but not mandatory)
 
 ## 🖥️ Supported Platforms
 
@@ -229,6 +232,7 @@ Using VirtualBox allows you to:
 Students who are already using Ubuntu natively may also follow the course directly on their Ubuntu installation.
 
 Docker-based workflows can also be used by students who prefer containerized development environments.
+
 ---
 
 ## ⚙️ Computer Requirements
@@ -238,7 +242,7 @@ Docker-based workflows can also be used by students who prefer containerized dev
 | Processor      | Intel Core i5 / AMD Ryzen 5 or better |
 | RAM            | 8 GB Minimum                          |
 | RAM (VM Users) | 16 GB Recommended                     |
-| Storage        | 50 GB Free Space                      |
+| Storage        | 40 GB Free Space                      |
 | GPU            | Optional                              |
 | Internet       | Required                              |
 

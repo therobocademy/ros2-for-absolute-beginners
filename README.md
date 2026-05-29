@@ -166,7 +166,7 @@ Advanced ROS 2 Topics
 
 ### Lentin Joseph
 
-Senior Robotics Software Engineer, Author, Trainer, Founder of [Robocademy](https://robocademy.com), and CTO of [RUNTIME Robotics](https://runtimerobotics.com).
+Author, Trainer, Robotics Software Architect, Founder of [Robocademy](https://robocademy.com), and CTO of [RUNTIME Robotics](https://runtimerobotics.com).
 
 Lentin Joseph has over **15 years of experience in Robotics and ROS** and is the **author of 11 books on ROS and robotics technologies**. He has trained thousands of students, engineers, researchers, and professionals worldwide in Robotics, ROS, Autonomous Systems, Embedded Systems, and AI.
 
@@ -195,35 +195,40 @@ No prior ROS experience is required.
 Recommended:
 
 * Basic computer knowledge
-* Basic Linux knowledge (helpful but not mandatory)
-* Basic programming knowledge (helpful but not mandatory)
+* Basic [Linux and command knowledge](https://ubuntu.com/tutorials/command-line-for-beginners) (helpful but not mandatory)
+* Basic programming knowledge in C++ and Python (helpful but not mandatory)
 
 ---
 
 ## 🖥️ Supported Platforms
 
-You can follow this course using any of the following setups:
+This course can be followed using any modern operating system, including:
 
-### Option 1: Native Ubuntu Installation (Recommended)
+- Windows
+- Linux
+- macOS
 
-* Ubuntu 22.04 LTS
-* Ubuntu 24.04 LTS
-* Ubuntu 26.04 LTS
+To ensure a consistent learning experience across all platforms, the course uses **VirtualBox** with an Ubuntu virtual machine as the primary development environment.
 
-### Option 2: Docker-Based Development
+Using VirtualBox allows you to:
 
-Run ROS 2 inside Docker containers without modifying your host operating system.
+- Follow the course regardless of your host operating system
+- Avoid modifying your existing operating system
+- Use a preconfigured Ubuntu environment for ROS 2 development
+- Maintain compatibility with all course exercises and projects
 
-### Option 3: VirtualBox-Based Development
+### Development Environment Used in This Course
 
-Run Ubuntu and ROS 2 inside a Virtual Machine.
+- VirtualBox
+- Ubuntu Linux
+- ROS 2 Lyrical
+- ROS 2 Jazzy
 
-Supported Host Operating Systems:
+### Optional Setup
 
-* Windows
-* Linux
-* macOS
+Students who are already using Ubuntu natively may also follow the course directly on their Ubuntu installation.
 
+Docker-based workflows can also be used by students who prefer containerized development environments.
 ---
 
 ## ⚙️ Computer Requirements
@@ -233,7 +238,7 @@ Supported Host Operating Systems:
 | Processor      | Intel Core i5 / AMD Ryzen 5 or better |
 | RAM            | 8 GB Minimum                          |
 | RAM (VM Users) | 16 GB Recommended                     |
-| Storage        | 40 GB Free Space                      |
+| Storage        | 50 GB Free Space                      |
 | GPU            | Optional                              |
 | Internet       | Required                              |
 
